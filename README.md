@@ -1,3 +1,1 @@
-# yashs-code
-yash git code
-This is a program to find fibonacci series
+Add some of ur favourite programs From the lab of classroom
